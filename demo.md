@@ -1,10 +1,6 @@
 This is the first line.
 
-<<<<<<< HEAD
-This is the second line!
-=======
-This is the second line!!
->>>>>>> refs/remotes/origin/main
+This toothbrush is safe
 
 And the third.
 
