@@ -8,4 +8,4 @@ And the final fourth line.
 
 Right now I'm in the middle of working on this file.
 
-This toothbrush can speak different languages
+This toothbrush can speak six different languages
