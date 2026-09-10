@@ -4,9 +4,8 @@ This toothbrush is safe
 
 And the third special for the conflict-test branch.
 
-And the final fourth line.
+And the final fourth line. This is it. I mean it.
 
 This toothbrush can speak six different languages
-=======
 This toothbrush requires (info TBD)
 
