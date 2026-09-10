@@ -4,12 +4,6 @@ This toothbrush is safe
 
 And the third.
 
-And the final fourth line.
+And the final fourth line. This is it. I mean it.
 
-<<<<<<< Updated upstream
-Right now I'm in the middle of working on this file.
-
-This toothbrush can speak six different languages
-=======
-This toothbrush requires (info TBD)
 
